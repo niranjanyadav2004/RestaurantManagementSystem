@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9a892b65-0e5f-4283-be2d-c8daa20d49cc)# RestaurantManagementSystem
+# RestaurantManagementSystem
 This is a restaurant management system using spring boot, angular and mysql
 
 1. Login and Signup
